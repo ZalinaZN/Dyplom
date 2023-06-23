@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.Objects;
 
 public class Main {
-    public static final String PDF_FOLDER = "./Dyplom./pdfs";
+    public static final String PDF_FOLDER = "./pdfs";
     public static void main(String[] args) {
 
         BooleanSearchEngine engine = null;
